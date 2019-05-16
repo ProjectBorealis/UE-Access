@@ -9,4 +9,4 @@ After that, you can find our Unreal Engine 4 repository here:
 
 Project Borealis is not endorsed or approved by Epic Games.
 
-Epic, Epic Games, the Epic Games logo, Unreal, Unreal Engine, the Unreal Engine logo, are trademarks or registered trademarks of Epic Games, Inc. in the United States of America and elsewhere.
+Epic, Epic Games, the Epic Games logo, Unreal, Unreal Engine, the Unreal Engine logo are trademarks or registered trademarks of Epic Games, Inc. in the United States of America and elsewhere.
