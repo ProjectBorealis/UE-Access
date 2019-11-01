@@ -3,7 +3,7 @@ To access our Unreal Engine 4 repository, sign up for a free Epic Games account 
 
 After that, you can find our Unreal Engine 4 repository here:
 
-*  [Unreal Engine](https://github.com/ProjectBorealisAdmin/UnrealEngine)
+*  [Unreal Engine](https://github.com/ProjectBorealisTeam/UnrealEngine)
   
 (Note that you must be signed into GitHub for this link to work.)
 
